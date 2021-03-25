@@ -1,4 +1,4 @@
-version: '3.5'  #abasdskadnskdsa test fork
+version: '3.5'  #abasdsaaaaaaaaaaaaaaaaaaaakadnskdsa test fork
 services:
   redis:
     image: "redis:alpine"
